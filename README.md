@@ -11,9 +11,9 @@ Los proyectos abarcan una amplia gama de temas y dominios, desde finanzas, econo
 
 Algunos de los proyectos que encontrarás en este repositorio incluyen:
 
-a. Predecir los precios de viviendas en una región dada utilizando técnicas de regresión.
-b. Analizar el rendimiento de diferentes modelos de aprendizaje automático en un conjunto de datos de una empresa minera.
-c. Visualizar las tendencias y patrones en los datos de pedidos de taxis a lo largo del tiempo.
-d. Analizar el comportamiento y las preferencias de los clientes para recomendar productos de telecomunicaciones personalizados.
+* Predecir los precios de viviendas en una región dada utilizando técnicas de regresión.
+* Analizar el rendimiento de diferentes modelos de aprendizaje automático en un conjunto de datos de una empresa minera.
+* Visualizar las tendencias y patrones en los datos de pedidos de taxis a lo largo del tiempo.
+* Analizar el comportamiento y las preferencias de los clientes para recomendar productos de telecomunicaciones personalizados.
 
 Espero que mi trabajo inspire y motive a otros entusiastas de la ciencia de datos a aprender y experimentar con nuevas técnicas y métodos. No dudes en explorar mis proyectos y proporcionar cualquier comentario o sugerencia para mejorar, estoy en completa disposición.
